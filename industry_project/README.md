@@ -8,3 +8,10 @@
 * Matplotlib
 * Catboost
 * Lightgbm
+
+## Результаты:
+|Модель|MAE
+|----------------------|:-----------------:|	
+|CatBoostRegressor|5.94|
+|RandomForestRegressor|6.47|
+|LinearRegression|6.52|
